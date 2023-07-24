@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 HOOK_NAMES="commit-msg"
 GIT_HOOK_DIR=../.git/hooks
